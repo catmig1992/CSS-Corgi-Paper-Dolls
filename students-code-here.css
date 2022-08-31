@@ -19,3 +19,8 @@
 .luna {
   position: absolute;
 }
+
+.top-hat {
+  position: relative;
+  z-index: 1;  
+}
