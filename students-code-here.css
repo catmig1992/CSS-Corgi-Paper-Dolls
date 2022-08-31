@@ -17,10 +17,12 @@
 }
 
 .luna {
-  position: absolute;
+  position: sticky;
+  top: 1em;
+  left: 1em;
 }
 
 .top-hat {
   position: relative;
-  z-index: 1;  
+  z-index: 1;
 }
